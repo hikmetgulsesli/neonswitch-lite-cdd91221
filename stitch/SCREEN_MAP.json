@@ -1,0 +1,20 @@
+[
+  {
+    "screenId": "c63f53464911485691aa2e8a5c37686a",
+    "name": "Game Settings - NeonSwitch Lite",
+    "type": "settings",
+    "description": "Game Settings - NeonSwitch Lite screen",
+    "surfaceIds": [
+      "SURF_GAME_SETTINGS"
+    ]
+  },
+  {
+    "screenId": "f14cff66c6b84d79bdb0fc0f3c58a352",
+    "name": "Gameplay - NeonSwitch Lite",
+    "type": "game",
+    "description": "Gameplay - NeonSwitch Lite screen",
+    "surfaceIds": [
+      "SURF_GAMEPLAY"
+    ]
+  }
+]

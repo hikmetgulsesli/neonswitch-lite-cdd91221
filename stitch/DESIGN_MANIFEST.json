@@ -1,0 +1,24 @@
+[
+  {
+    "screenId": "c63f53464911485691aa2e8a5c37686a",
+    "title": "Game Settings - NeonSwitch Lite",
+    "htmlFile": "c63f53464911485691aa2e8a5c37686a.html",
+    "deviceType": "DESKTOP",
+    "htmlUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sX2EwN2Q2M2NhYWE4MTRkMTdhZmFiN2Q2NDBmYTc2YTFmEgsSBxCN19Wi9xcYAZIBJAoKcHJvamVjdF9pZBIWQhQxMjU3NjkxODQ5MDYxNDU1OTEyNA&filename=&opi=96797242",
+    "localHtml": "/Users/setrox/projects/neonswitch-lite-cdd91221/stitch/c63f53464911485691aa2e8a5c37686a.html",
+    "surfaceIds": [
+      "SURF_GAME_SETTINGS"
+    ]
+  },
+  {
+    "screenId": "f14cff66c6b84d79bdb0fc0f3c58a352",
+    "title": "Gameplay - NeonSwitch Lite",
+    "htmlFile": "f14cff66c6b84d79bdb0fc0f3c58a352.html",
+    "deviceType": "DESKTOP",
+    "htmlUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzM4NDk0ZGU1MjU1OTQ0YWY5MGVlZjZjYWExNmJiNWE3EgsSBxCN19Wi9xcYAZIBJAoKcHJvamVjdF9pZBIWQhQxMjU3NjkxODQ5MDYxNDU1OTEyNA&filename=&opi=96797242",
+    "localHtml": "/Users/setrox/projects/neonswitch-lite-cdd91221/stitch/f14cff66c6b84d79bdb0fc0f3c58a352.html",
+    "surfaceIds": [
+      "SURF_GAMEPLAY"
+    ]
+  }
+]
